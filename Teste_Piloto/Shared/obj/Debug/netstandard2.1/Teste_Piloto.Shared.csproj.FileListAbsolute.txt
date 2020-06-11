@@ -1,0 +1,9 @@
+C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Shared\bin\Debug\netstandard2.1\Teste_Piloto.Shared.deps.json
+C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Shared\bin\Debug\netstandard2.1\Teste_Piloto.Shared.dll
+C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Shared\bin\Debug\netstandard2.1\Teste_Piloto.Shared.pdb
+C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Shared\obj\Debug\netstandard2.1\Teste_Piloto.Shared.csprojAssemblyReference.cache
+C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Shared\obj\Debug\netstandard2.1\Teste_Piloto.Shared.AssemblyInfoInputs.cache
+C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Shared\obj\Debug\netstandard2.1\Teste_Piloto.Shared.AssemblyInfo.cs
+C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Shared\obj\Debug\netstandard2.1\Teste_Piloto.Shared.dll
+C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Shared\obj\Debug\netstandard2.1\Teste_Piloto.Shared.pdb
+C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Shared\obj\Debug\netstandard2.1\Teste_Piloto.Shared.csproj.CoreCompileInputs.cache

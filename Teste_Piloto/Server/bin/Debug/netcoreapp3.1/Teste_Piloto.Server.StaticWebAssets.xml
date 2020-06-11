@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Client\bin\Debug\netstandard2.1\wwwroot\" />
+</StaticWebAssets>

@@ -1,0 +1,58 @@
+﻿@page "/Cursos"
+@using Faculdade_FUP_Project.Server.Models
+@inject HttpClient http
+
+@if (cursos == null)
+{
+    <text>Carregando!!!</text>
+}
+else if (cursos.Count == 0)
+{
+    <text>Ninguem cadastradoM</text>
+}
+else
+{
+    <div>
+        <a href="cursos/criar" class="btn btn-sucess" value="Criar"  />
+    </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>NomeCurso</th>
+                <th>Professor</th>
+                <th>ValorCurso</th>
+                <td></td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var curso in cursos)
+            {
+                <tr>
+                    <td>@curso.Id_Curso</td>
+                    <td>@curso.NomeCurso</td>
+                    <td>@curso.ProfessorCurso</td>
+                    <td>@curso.ValorCurso</td>
+                    <td>
+                        <a class="btn btn-sucess" href="cursos/edit/@curso.Id_Curso">Edit</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}
+
+
+
+@code {
+   public List<Curso> cursos;
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadCursos();
+    }
+    async Task LoadCursos()
+    {
+        cursos = await http.GetFromJsonAsync<List<Curso>>("api/cursos");
+    }
+}

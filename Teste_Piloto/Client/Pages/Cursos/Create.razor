@@ -1,0 +1,33 @@
+﻿@page "/cursos/criar"
+@inject HttpClient http
+@inject NavigationManager navigation
+
+<h3>CADASTRAR NOVO CURSO</h3>
+<br>
+<FormCursos Curso="curso" ButtonText="Adicionar" OnValidSubmit="@Criar"></FormCursos>
+
+
+@code {
+    private Curso curso = new Curso();
+    async Task Criar()
+    {
+        await http.PostAsJsonAsync("api/cursos", curso);
+        navigation.NavigateTo("cursos");
+    }
+    //private async Task Criar()
+    //{
+    //    Console.WriteLine("Create method");
+    //    Console.WriteLine(curso.NomeCurso);
+
+    //    try
+    //    {
+    //        await cursoRepository.CreateCurso(curso);
+    //        navigation.NavigateTo("cursos");
+    //    }
+    //    catch (Exception ex)
+    //    {
+    //        // ...
+    //        Console.WriteLine(ex.Message);
+    //    }
+    //}
+}

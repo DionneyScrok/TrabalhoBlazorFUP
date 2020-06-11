@@ -1,0 +1,25 @@
+﻿<br>
+<EditForm Model="@Curso" OnInvalidSubmit="@OnValidSubmit">
+    <div class="form-group">
+        <label>Nome</label>
+        <InputText @bind-Value="@Curso.NomeCurso"></InputText>
+    </div>
+    <div class="form-group">
+        <label>Professor</label>
+        <InputText @bind-Value="@Curso.ProfessorCurso"></InputText>
+    </div>
+    <div class="form-group">
+        <label>Valor</label>
+        <InputNumber @bind-Value="@Curso.ValorCurso"></InputNumber>
+    </div>
+    <button type="submit" class="btn btn-primary" @onclick="OnValidSubmit">@ButtonText</button>
+
+</EditForm>
+
+
+@code
+{
+    [Parameter] public Curso Curso { get; set; }
+    [Parameter] public string ButtonText { get; set; }
+    [Parameter] public EventCallback OnValidSubmit { get; set; }
+}
