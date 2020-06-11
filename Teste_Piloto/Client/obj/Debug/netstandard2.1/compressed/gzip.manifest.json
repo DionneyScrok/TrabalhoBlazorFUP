@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\O4Bo-A2qu2_hB2linSPRI-cuXQR52BjHAncL2fYFsZE=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\RE94FYwPvhK6B-kBG3MdqNT7sj0d_J8n7ZsEgw5udBE=.hash",
       "Source": "C:\\Users\\dionn\\source\\repos\\Teste_Piloto\\Teste_Piloto\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Teste_Piloto.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Teste_Piloto.Client.dll.gz"
     },
@@ -266,7 +266,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\S8uhUmHbTYybnW0vE8hrByF3XWMLsXP8L65oFYL8gWU=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\qSKDZb707sTLJ-q15Ywj48Y8H-fC0ivNe8F-1EsEPZE=.hash",
       "Source": "C:\\Users\\dionn\\source\\repos\\Teste_Piloto\\Teste_Piloto\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Teste_Piloto.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Teste_Piloto.Client.pdb.gz"
     },
@@ -296,12 +296,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\K8c7aKBpqOeE5YYhQJW5q0gq-5Yax64NQBpqdbip_R4=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\kFQXPiF8lEz6PqgkHRzz-V5GEfQ1AG9WKqFdEqqt41I=.hash",
       "Source": "C:\\Users\\dionn\\source\\repos\\Teste_Piloto\\Teste_Piloto\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\64HafKneB11PukkRJJFoOQMuNooqJZuTuesUmH7j7T8=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\86wTprComfx2XLm4bbIC0B6UAP_Tc3HgtDm2Lwlvfi8=.hash",
       "Source": "C:\\Users\\dionn\\source\\repos\\Teste_Piloto\\Teste_Piloto\\Client\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.gz"
     }

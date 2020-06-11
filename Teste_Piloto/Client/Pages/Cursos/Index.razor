@@ -35,6 +35,7 @@ else
                     <td>@curso.ValorCurso</td>
                     <td>
                         <a class="btn btn-sucess" href="cursos/edit/@curso.Id_Curso">Edit</a>
+                        <button class="="btn btn-danger  @onclick="@(() => ExcluirCurso(curso.Id_Curso))"> Delete </button>
                     </td>
                 </tr>
             }
@@ -46,7 +47,7 @@ else
 
 
 @code {
-   public List<Curso> cursos;
+    public List<Curso> cursos;
     protected override async Task OnInitializedAsync()
     {
         await LoadCursos();
@@ -54,5 +55,11 @@ else
     async Task LoadCursos()
     {
         cursos = await http.GetFromJsonAsync<List<Curso>>("api/cursos");
+    }
+
+    async Task ExcluirCurso(int id)
+    {
+        await http.DeleteAsync($"api/cursos/{id}");
+        await LoadCursos();
     }
 }

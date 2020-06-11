@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Teste_Piloto.Client.dll": "sha256-O4Bo\/A2qu2+hB2linSPRI\/cuXQR52BjHAncL2fYFsZE=",
+      "Teste_Piloto.Client.dll": "sha256-RE94FYwPvhK6B\/kBG3MdqNT7sj0d+J8n7ZsEgw5udBE=",
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -61,7 +61,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-dwm+rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs="
     },
     "pdb": {
-      "Teste_Piloto.Client.pdb": "sha256-S8uhUmHbTYybnW0vE8hrByF3XWMLsXP8L65oFYL8gWU=",
+      "Teste_Piloto.Client.pdb": "sha256-qSKDZb707sTLJ\/q15Ywj48Y8H\/fC0ivNe8F\/1EsEPZE=",
       "Teste_Piloto.Shared.pdb": "sha256-G1cGppBZVNNUviEufEgMRM4s4dEZrlslEkg9t9sIimU="
     },
     "runtime": {

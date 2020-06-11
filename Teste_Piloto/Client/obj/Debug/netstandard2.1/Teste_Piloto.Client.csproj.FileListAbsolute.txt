@@ -435,8 +435,8 @@ C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Client\obj\Debug\netstanda
 C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Cursos\FormCursos.razor.g.cs
 C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Client\obj\Debug\netstandard2.1\Razor\Pages\Cursos\Edit.razor.g.cs
 C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Client\obj\Debug\netstandard2.1\Razor\Pages\Cursos\FormCursos.razor.g.cs
-C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Client\obj\Debug\netstandard2.1\integrity\h9dC1UeD6bku4TskpU1CPnuh8cNvIHdtrkU-fpV3WaU=.hash
-C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Client\obj\Debug\netstandard2.1\integrity\O4Bo-A2qu2_hB2linSPRI-cuXQR52BjHAncL2fYFsZE=.hash
-C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Client\obj\Debug\netstandard2.1\integrity\S8uhUmHbTYybnW0vE8hrByF3XWMLsXP8L65oFYL8gWU=.hash
-C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Client\obj\Debug\netstandard2.1\integrity\K8c7aKBpqOeE5YYhQJW5q0gq-5Yax64NQBpqdbip_R4=.hash
-C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Client\obj\Debug\netstandard2.1\integrity\64HafKneB11PukkRJJFoOQMuNooqJZuTuesUmH7j7T8=.hash
+C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Client\obj\Debug\netstandard2.1\integrity\39iyq8cOHwiO3AU3Reh_7ZwZLHzV9xpANoVoW3xnn_w=.hash
+C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Client\obj\Debug\netstandard2.1\integrity\RE94FYwPvhK6B-kBG3MdqNT7sj0d_J8n7ZsEgw5udBE=.hash
+C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Client\obj\Debug\netstandard2.1\integrity\qSKDZb707sTLJ-q15Ywj48Y8H-fC0ivNe8F-1EsEPZE=.hash
+C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Client\obj\Debug\netstandard2.1\integrity\kFQXPiF8lEz6PqgkHRzz-V5GEfQ1AG9WKqFdEqqt41I=.hash
+C:\Users\dionn\source\repos\Teste_Piloto\Teste_Piloto\Client\obj\Debug\netstandard2.1\integrity\86wTprComfx2XLm4bbIC0B6UAP_Tc3HgtDm2Lwlvfi8=.hash

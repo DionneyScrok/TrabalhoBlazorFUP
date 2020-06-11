@@ -53,13 +53,16 @@ namespace Teste_Piloto.Server.Controllers
             await context.SaveChangesAsync();
             return NoContent();
         }
-        [HttpPost]
-        public async Task<ActionResult> Post(Curso curso)
+        //Delete
+        [HttpDelete("{id}")]
+        public async Task<ActionResult> Delete(int id)
         {
-            context.Add(curso);
+            var curso = await context.Cursos.FirstOrDefaultAsync(x => x.Id_Curso == id);
+            context.Remove(curso);
             await context.SaveChangesAsync();
-            return new CreatedAtRouteResult(nameof(GetById), new { curso.Id_Curso });
+            return NoContent();
         }
+
 
 
     }
